@@ -1,0 +1,4 @@
+20
+Simple Goal:asdasd~asdasd~10~True
+Eternal Goal:asdasd~asdasd~20
+Checklist Goal:asdasd~asdasd~10~100~2~1
